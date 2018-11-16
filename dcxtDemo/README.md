@@ -1,6 +1,6 @@
 # dcxtdemo
 
-> A Vue.js project
+>Vue.js 写的项目  包含vue-router vuex axios 以及element-ui
 
 ## Build Setup
 
