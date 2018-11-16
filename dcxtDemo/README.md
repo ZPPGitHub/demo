@@ -1,4 +1,4 @@
-# dcxtdemo
+包含vue-router vuex axios 以及 element-ui 小demo
 
 >Vue.js 写的项目  包含vue-router vuex axios 以及element-ui
 
